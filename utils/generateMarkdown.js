@@ -2,8 +2,9 @@
 function generateMarkdown(data) {
   // add license badge 
   const licenseBadge = `![License](https://img.shields.io/badge/license-${encodeURIComponent(data.license)}-brightgreen)`;
-
-  return `# ${data.title}
+  
+  return `# ${data.title} ${licenseBadge} <!-- license badge here -->
+  
 
   ## Description
   ${data.description}
@@ -18,7 +19,6 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## License
-  ${licenseBadge} <!-- license badge here -->
   This project is licensed under the ${data.license} License.
   
   ## Contributing
