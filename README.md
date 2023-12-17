@@ -1,4 +1,5 @@
-# SalxIeva_README_generator
+# SalxIeva_README_generator ![License](https://img.shields.io/badge/license-MIT-brightgreen) <!-- license badge here -->
+  
 
   ## Description
   the generator helps user to create high quality README file
@@ -18,7 +19,6 @@
   in your terminal enter: node index.js
   
   ## License
-  ![License](https://img.shields.io/badge/license-MIT-brightgreen) <!-- license badge here -->
   This project is licensed under the MIT License.
   
   ## Contributing
