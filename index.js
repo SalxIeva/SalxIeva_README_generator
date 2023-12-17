@@ -75,7 +75,7 @@ function writeToFile(fileName, data) {
     // write readme content to the file
     fs.writeFileSync(filePath, data, 'utf-8');
     // check if it is working
-    console.log('README generated succesfully');
+    console.log('README generated successfully');
 }
 
 // function to initialize program
