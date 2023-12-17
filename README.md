@@ -1,25 +1,28 @@
 # README generator
 
   ## Description
-  This project is made to help write high quality README file
+  README generator promps user with questions to generate high quality README file.
   
   ## Table of Contents
-  
+  - [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
   
   ## Installation
-  You will need to have node.js installed and then you can just simply use it through termianl in VScode
+  You will need to install node.js
   
   ## Usage
-  
+  You can just simply in your terminal write: node index.js , and that will prompt you with questions about your project.
   
   ## License
   This project is licensed under the MIT License.
   
   ## Contributing
-  
+  Please leave a comment for contribution.
   
   ## Tests
-  tyoe node index.js to the terminal
+  enter: node index.js in your terminal window
   
   ## Questions
   
