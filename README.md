@@ -1,4 +1,4 @@
-# README generator
+# SalxIeva_README_generator
 
   ## Description
   the generator helps user to create high quality README file
@@ -18,10 +18,11 @@
   in your terminal enter: node index.js
   
   ## License
-  This project is licensed under the GPL-3.0 License.
+  ![License](https://img.shields.io/badge/license-MIT-brightgreen) <!-- license badge here -->
+  This project is licensed under the MIT License.
   
   ## Contributing
-  
+  n/a
   
   ## Tests
   n/a
@@ -30,5 +31,5 @@
   
   - GitHub: [SalxIeva](http://github.com/SalxIeva)
   - Email: ieva@gmail.com
-  - Contact instructions: SEnd me an email for further questions
+  - Contact instructions: Send me an email for further questions
   

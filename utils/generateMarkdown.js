@@ -1,5 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  // add license badge 
+  const licenseBadge = `![License](https://img.shields.io/badge/license-${encodeURIComponent(data.license)}-brightgreen)`;
+
   return `# ${data.title}
 
   ## Description
@@ -15,6 +18,7 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## License
+  ${licenseBadge} <!-- license badge here -->
   This project is licensed under the ${data.license} License.
   
   ## Contributing
