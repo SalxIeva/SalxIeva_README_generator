@@ -59,6 +59,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'contact',
+        message: 'Enter instructions on how would you like to be reached:'
+    },
+    {
+        type: 'input',
         name: 'questions',
         message: 'Enter any additional information or instructions for questions:',
     },
