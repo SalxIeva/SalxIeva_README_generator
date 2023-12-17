@@ -65,7 +65,13 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
+    // use inquirer to prompt the user with the difened questions
+    inquirer.prompt(questions).then((answers) => {
+        // generate README based on user answers
+        const readmeCont = generateMarkdown(answers);
+        // writhe the generated README content to a file README.md
+        writeToFile('README.md', readmeCont);
+    })
 }
 
 // function call to initialize program
