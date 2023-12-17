@@ -56,6 +56,11 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    const filePath = path.join(process.cwd(), fileName);
+    // write readme content to the file
+    fs.writeFileSync(filePath, data, 'utf-8');
+    // check if it is working
+    console.log('README generated succesfully');
 }
 
 // function to initialize program
