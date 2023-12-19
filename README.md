@@ -1,8 +1,8 @@
-# SalxIeva_README_generator ![License](https://img.shields.io/badge/license-MIT-brightgreen) <!-- license badge here -->
+# SalxIeva_RAEDME_generator ![License](https://img.shields.io/badge/license-MIT-brightgreen) <!-- license badge here -->
   
 
   ## Description
-  the generator helps user to create high quality README file
+  The generator helps user to create a high quality README.md file
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,10 +13,10 @@
 - [Questions](#questions)
   
   ## Installation
-  you will need to install node.js and download this repository
+  The user will have to install node.js and download this repository to use within his terminal.
   
   ## Usage
-  in your terminal enter: node index.js
+  Inside the terminal user has to enter following command: 'node index.js', then the generator will prompt the user with questions to generate README.md file.
   
   ## License
   This project is licensed under the MIT License.
@@ -30,6 +30,6 @@
   ## Questions
   
   - GitHub: [SalxIeva](http://github.com/SalxIeva)
-  - Email: ieva@gmail.com
-  - Contact instructions: Send me an email for further questions
+  - Email: email@gmail.com
+  - Contact instructions: Please send me an email for further questions.
   
