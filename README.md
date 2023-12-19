@@ -13,7 +13,9 @@
 - [Questions](#questions)
   
   ## Installation
-  The user will have to install node.js and download this repository to use within his terminal.
+  1. Clone the repo: git@github.com:SalxIeva/SalxIeva_README_generator.git
+  2. Have node.js installed.
+  3. Enter node index.js within your terminal window.
   
   ## Usage
   Inside the terminal user has to enter following command: 'node index.js', then the generator will prompt the user with questions to generate README.md file.
