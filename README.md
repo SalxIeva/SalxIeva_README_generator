@@ -38,3 +38,7 @@
 ## Screenshoot
 
 ![image](https://github.com/SalxIeva/SalxIeva_README_generator/assets/133906072/e374f401-d8bb-4ff0-a793-ee3a5502d1df)
+
+## Preview Video
+
+https://drive.google.com/file/d/1gX1aXDS9k7cprOltJjPU9Tno7D7WJT_r/view
